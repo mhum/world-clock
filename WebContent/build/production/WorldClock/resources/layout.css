@@ -1,0 +1,23 @@
+body {
+	background-color:black;
+}
+.clockTextOpen {
+	color:#00FF00;
+	font-weight:bold;
+	background-color:black;
+}
+.clockTextClosed {
+	color:red;
+	font-weight:bold;
+	background-color:black;
+}
+.editbutton {
+   background-image: url(images/edit.png) !important;
+   height:17px;
+   width:17px;
+}
+.deletebutton {
+   background-image: url(images/delete.png) !important;
+   height:17px;
+   width:17px;
+}
